@@ -1,2 +1,2 @@
-# poligonal_clusterization
+# Poligonal_clusterization
 Clusterización de poligonales usando diferentes métodos y distancias
